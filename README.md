@@ -10,14 +10,8 @@ A curated collection of wallpapers tailored for tiling window managers (Hyprland
     | ![car_on_mars](car_on_mars.jpg) | ![mystical-night-in-town](mystical-night-in-town.jpg) |
     | ![deep-forest](deep-forest-with-wooden-stairs.png) | ![suzume1](suzume1.jpg) |
     | ![muscle-car](muscle-car-ice-road-red-moon.jpg) | ![sea1](sea1.jpg) |
-    | ![3d-tech](3d-tech.jpg) | ![aesthetic_deer](aesthetic_deer.jpg) |
-    | ![ai-machine](ai-machine.png) | ![anime2](anime2.jpg) |
-    | ![anime3](anime3.png) | ![apex_octane](apex_octane.jpg) |
-    | ![astronaut](astronaut.png) | ![astronaut2](astronaut2.png) |
-    | ![astronaut_jellyfish](astronaut_jellyfish.jpg) | ![black-and-white-anime-bartender-girl](black-and-white-anime-bartender-girl.png) |
+    | ![anime3](anime3.png) | ![anime2](anime2.jpg) |
     | ![bridge-sea-middle-mountains](bridge-sea-middle-mountains.jpg) | ![cyberpunk](cyberpunk.png) |
-    | ![enterprise-desert-crash](enterprise-desert-crash.png) | ![expanse](expanse.jpg) |
-    | ![explorer_green_day](explorer_green_day.jpg) | ![explorer_orange_sunset](explorer_orange_sunset.jpg) |
     | ![fish_2](fish_2.jpg) | ![fishing](fishing.jpg) |
     | ![flowers1](flowers1.png) | ![frozen-shores-burning-sky](frozen-shores-burning-sky.jpeg) |
     | ![house1](house1.png) | ![hyprland](hyprland.jpg) |
