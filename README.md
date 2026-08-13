@@ -2,7 +2,8 @@
 
 My personal wallpaper collection that fits best to tiling window managers.
 
-* Image 
+* Image
+ 	| A  			|  B|
 	| -------------|:-----------------:|
 	| ![image4_1](car_on_mars.jpg)|![image_1_1](mystical-night-in-town.jpg)|
 	| ![image_2](deep-forest-with-wooden-stairs.png)|![image_1_2](suzume1.jpg)|
