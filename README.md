@@ -19,10 +19,8 @@ A curated collection of wallpapers tailored for tiling window managers (Hyprland
     | ![japanese3](japanese3.jpg) | ![kath](kath.jpg) |
     | ![kita](kita.png) | ![marina-bay-sands](marina-bay-sands.png) |
     | ![neon_car](neon_car.jpg) | ![neon_office](neon_office.jpg) |
-    | ![robot-home](robot-home.png) | ![rocky_land](rocky_land.jpg) |
     | ![room1-sunset](room1-sunset.png) | ![spaceship1](spaceship1.jpg) |
     | ![spaceship2](spaceship2.jpg) | ![street1](street1.jpg) |
-    | ![street2](street2.gif) | ![wallhaven1](wallhaven1.jpg) |
 > 📁 **Note:** Explore the repository files to see the complete collection of images and animated wallpapers.
 
 ---
@@ -33,7 +31,7 @@ Clone this repository into your preferred directory (e.g., `~/Pictures`):
 
 ```bash
 cd ~/Pictures
-git clone --depth=1 [https://github.com/VirtualZeroResolution/Wallpapers.git](https://github.com/VirtualZeroResolution/Wallpapers.git)
+git clone --depth=1 https://github.com/VirtualZeroResolution/Wallpapers.git
 cd Wallpapers
 ```
 > Integration: If you are using ML4W Dotfiles for Hyprland, you can easily set this directory as your active wallpaper source using Waypaper.
